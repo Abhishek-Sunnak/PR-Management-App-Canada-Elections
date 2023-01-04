@@ -18,7 +18,7 @@
     "react-redux": "^6.0.1",
     "react-router": "^5.0.0",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "react-spring": "^8.0.18",
     "react-twitter-widgets": "^1.7.1",
     "redux": "^4.0.1",
